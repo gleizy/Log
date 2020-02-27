@@ -1,0 +1,10 @@
+2020-01-29 14:38:49,714  check_data_consistency.py : INFO  入力データチェック処理が起動します。
+2020-01-29 14:39:17,313  check_data_consistency.py : INFO  入力データチェック処理が終了しました。処理件数：39810
+2020-02-01 09:01:31,563  calculate_out.py : INFO  要員実績計算処理が起動します。
+2020-02-01 09:01:31,582  calculate_out.py : WARNING  処理対象要員はありませんでした。
+2020-02-01 09:01:31,582  calculate_out.py : INFO  要員実績計算処理が終了しました。処理件数：0
+2020-02-01 10:03:19,121  send_data_to_cas.py : INFO  入力データCAS送信処理が起動します。
+2020-02-01 10:04:01,342  send_data_to_cas.py : INFO  CAS接続中...
+2020-02-01 10:04:05,956  send_data_to_cas.py : ERROR  CAS接続失敗しました。再接続1次起動中...
+2020-02-01 10:04:11,587  send_data_to_cas.py : ERROR  CAS接続失敗しました。再接続2次起動中...
+2016-02-03 10:04:17,298  send_data_to_cas.py : CRITICAL  CAS接続できません。入力データCAS送信処理が異状終了しました。
