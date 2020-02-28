@@ -1,5 +1,5 @@
+FATAL - 20160203_100417_298 - send_data_to_cas.py - CAS接続できません。入力データCAS送信処理が異状終了しました。
 ERROR - 20200201_100405_956 - send_data_to_cas.py - CAS接続失敗しました。再接続1次起動中...
 ERROR - 20200201_100411_587 - send_data_to_cas.py - CAS接続失敗しました。再接続2次起動中...
-FATAL - 20160203_100417_298 - send_data_to_cas.py - CAS接続できません。入力データCAS送信処理が異状終了しました。
 ERROR - 20200211_114633_131 - com.sinovatech.myservice.service.PointFileProcessor - ファイルのフォーマットは不正。
 FATAL - 20200211_114633_131 - com.sinovatech.myservice.service.PointFileProcessor - ポイントファイルY_POINT_20200211.datの処理は失敗しました。
